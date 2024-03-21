@@ -2,10 +2,14 @@
 
 
 # San Shwe (Sam):
-I'm San Shwe (Sam) from Myanmar,🙆‍♂️ and I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.<br><br>🌱 I do content on Development.<br>⚡ I'm currently learning MERN Stacks.<br>💞️ I really enjoy learning languages and frameworks like React and Next, as well as working in WordPress.<br>🎓 I've turned in my Final Project and am currently awaiting my Higher Diploma of Infocomm Technology.<br>👀 I’m willing to gain some work experience and collaborate with web developing companies.
+I'm San Shwe (Sam) from Myanmar,🙆‍♂️ and I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.
+<br><br>🌱 I do content on Development.<br>⚡ I'm currently learning MERN Stacks.<br>💞️ I really enjoy learning languages and frameworks like React and Next, as well as working in WordPress.<br>🎓 I've turned in my Final Project and am currently awaiting my Higher Diploma of Infocomm Technology.<br>👀 I’m willing to gain some work experience and collaborate with web developing companies.
+
+## 📝 Portfolio:
+<a href="https://sanshwe.vercel.app/"><img src="https://github.com/Sam-mx/Sam/blob/main/portfolio-icon.png" ></a> 
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/samx3033) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/txanshwe) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/san_xhwe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/san-shwe-564a32169) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sanxhwe?s=21) 
 
 # 💻 Tech Stack:
