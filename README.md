@@ -3,7 +3,7 @@
 
 # San Shwe (Sam):
 I'm San Shwe (Sam) from Myanmar,🙆‍♂️ and I'm a software engineer/ web developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.
-<br><br>🌱 I do content on Web Development.<br>⚡ I'm currently learning MERN Stacks.<br>💞️ I really enjoy learning languages and frameworks like React and Next, as well as working in WordPress.<br>🎓 I've turned in my Final Project and am currently awaiting my Higher Diploma of Infocomm Technology.<br>👀 I’m willing to gain some work experience and collaborate with web developing companies.
+<br><br>🌱 I do content on Web Development.<br>⚡ I'm currently learning MERN Stacks.<br>💞️ I really enjoy learning languages and frameworks like React.JS and Next.JS, as well as working in WordPress.<br>🎓 I've turned in my Final Project and am currently awaiting my Higher Diploma of Infocomm Technology.<br>👀 I’m willing to gain some work experience and collaborate with web developing companies.
 
 ## 📝 Portfolio:
 <a href="https://sanshwe.vercel.app/"><img src="https://github.com/Sam-mx/Sam/blob/main/portfolio-icon.png" ></a> 
