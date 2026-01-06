@@ -45,8 +45,11 @@ I am an experienced **IT Project Coordinator** and **Computer Science Undergradu
 ---
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=Sam-mx&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sam-mx&theme=radical&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-mx&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
