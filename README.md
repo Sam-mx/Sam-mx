@@ -1,4 +1,4 @@
-<img src="https://github.com/Sam-mx/Sam/blob/main/sammm.png" width="100%">
+<img src="https://github.com/Sam-mx/Sam/blob/main/samm.jpg" width="100%">
 
 # Hi, I'm San Shwe (Sam)! 👋
 
